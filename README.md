@@ -46,7 +46,7 @@ This screen allows users to add new tasks or edit existing ones. It features:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Sikandar897/todo-app.git
 
 2. Navigate to the project directory:
  ```bash
